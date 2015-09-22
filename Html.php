@@ -5,8 +5,7 @@
     <title>fsfsd</title>
 </head>
 <body>
-<header>
-
+<header>dasdsa</header>
     <!-- pealkirjad -->
 
     <h1>Kõik tagid sissejuhatus</h1>
@@ -18,12 +17,11 @@
     <hr>
 
 
-
     <!--Lingid-->
 
     <a>leht</a>
     <a href="www.youtube.com">youtube link</a>
-</header>
+
 
 <hr>
 <!--paragrahvid-->
